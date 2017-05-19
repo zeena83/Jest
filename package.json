@@ -1,0 +1,19 @@
+{
+  "name": "jest-exercise",
+  "version": "1.0.0",
+  "description": "Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeena83/Jest.git"
+  },
+  "author": "Zeena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeena83/Jest/issues"
+  },
+  "homepage": "https://github.com/zeena83/Jest#readme"
+}
